@@ -1,0 +1,95 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+#headshot {
+    width: 470px;
+}
+#NYSE_building{
+	 height: 290px;
+	 width: 450px;
+	 margin-bottom: 15px;
+}
+#mona_lisa{
+	 height: 400px;
+	 width: 450px;
+	 margin-bottom: 15px;
+}
+.pad-box-large {
+	margin-top: 30px;
+	margin-bottom: : 50px;
+	padding-bottom: 10px;
+	height: 0;
+	width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: solid 2px #c0c0c0;
+}
+p.SourceCodeLink {
+    margin-bottom: 25px;
+}
+
+p.nameTitle{
+	margin-top: -40px;
+	margin-bottom: -5px;
+	font-style: normal;
+	font-size: 55px;
+	font-weight: bold;
+}
+
+p.lead{
+	margin-top: -10px;
+	font-style: normal;
+	
+}
+
+p.leadMessage{
+	margin: 10px;
+	margin-bottom: 15px;
+	font-style: normal;
+	font-size: 30px;
+}
+
+.weather_form{
+	font-style: normal;
+	font-size: 35px;
+	margin-top: 200px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+/* Monte carlo sim buttons*/
+#startButton, #resetButton, #stopButton  {
+  background-color: #000000;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+/* Monte carlo sim texts and buttons*/
+#outputText  {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 60%;
+  padding-bottom: auto;
+}
+/* Monte carlo sim canvas*/
+#simCanvas {
+	border: 1px solid rgb(217, 184, 156);
+	display: block;
+  	margin-left: 30%;
+  	margin-top: 80px;
+}
+

@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+public/SEC_file_downloader.zip filter=lfs diff=lfs merge=lfs -text

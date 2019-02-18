@@ -1,0 +1,50 @@
+{
+  "name": "node-js-template",
+  "version": "1.0.0",
+  "description": "piyush's template",
+  "main": "app.js",
+  "engines": {
+    "node": "8.12.0"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "babel": "^6.23.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "html-pdf": "^2.2.0",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.3.0",
+    "npx": "^10.2.0",
+    "package": "^1.0.1",
+    "phantomjs-prebuilt": "^2.1.16",
+    "raw-body": "^2.3.3",
+    "request": "^2.88.0",
+    "tape": "^4.9.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2",
+    "yargs": "^12.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiyushDatta/PiyushWebsite.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Piyush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiyushDatta/PiyushWebsite/issues"
+  },
+  "homepage": "https://github.com/PiyushDatta/PiyushWebsite#readme"
+}

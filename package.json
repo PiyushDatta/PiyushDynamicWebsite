@@ -14,7 +14,7 @@
     "express": "^4.16.4",
     "html-pdf": "^2.2.0",
     "morgan": "^1.9.1",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "npx": "^10.2.0",
     "package": "^1.0.1",
     "phantomjs-prebuilt": "^2.1.16",
